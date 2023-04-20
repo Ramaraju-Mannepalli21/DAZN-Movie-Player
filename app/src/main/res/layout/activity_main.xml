@@ -8,8 +8,8 @@
     tools:context=".MainActivity" >
 
     <androidx.core.widget.NestedScrollView
-        android:layout_width="409dp"
-        android:layout_height="729dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:fillViewport="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -25,8 +25,9 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
                 android:layout_marginLeft="16dp"
-                android:layout_marginTop="36dp"
+                android:layout_marginTop="16dp"
                 android:text="Movie Catalog"
                 android:textColor="@color/white"
                 android:textSize="30sp"
@@ -36,6 +37,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
                 android:layout_marginLeft="16dp"
                 android:text="Popular Movies"
                 android:textColor="@color/white" />
