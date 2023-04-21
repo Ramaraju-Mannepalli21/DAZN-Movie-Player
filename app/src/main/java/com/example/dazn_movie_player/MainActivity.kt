@@ -3,6 +3,7 @@ package com.example.dazn_movie_player
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import com.example.dazn_movie_player.models.Movie
 import com.example.dazn_movie_player.models.MovieResponse
 import com.example.dazn_movie_player.models.services.MovieApiInterface
@@ -13,14 +14,19 @@ import retrofit2.Response
 
 
 class MainActivity : AppCompatActivity() {
+
+    lateinit var mListRecyclerView: RecyclerView;
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        rv_movies_list.layoutManager = LinearLayoutManager(this)
-        rv_movies_list.setHasFixedSize(true)
+
+
+        mListRecyclerView=findViewById<RecyclerView>(R.id.rv_movies_list)
+        mListRecyclerView.layoutManager = LinearLayoutManager(this)
+        mListRecyclerView.setHasFixedSize(true)
         getMovieData { movies : List<Movie> ->
-            rv_movies_list.adapter = MovieAdapter(movies)
+            mListRecyclerView.adapter = MovieAdapter(movies)
     }
 }
     private fun getMovieData(callback: (List<Movie>) -> Unit){
