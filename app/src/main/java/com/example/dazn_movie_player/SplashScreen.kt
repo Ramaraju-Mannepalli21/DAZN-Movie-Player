@@ -11,15 +11,10 @@ class SplashScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
 
-        supportActionBar?.hide()
-
-        val handler = Handler(Looper.getMainLooper())
-        handler.postDelayed({
-            val intent = Intent(this,MainActivity::class.java)
+        val handler = Handler(Looper.getMainLooper()).postDelayed({
+            val intent = Intent(this, VideoStreaming::class.java)
             startActivity(intent)
             finish()
-        },3000)
-
-
+        }, 2000)
     }
 }

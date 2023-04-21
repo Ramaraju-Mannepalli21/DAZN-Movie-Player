@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-
     tools:context=".SplashScreen">
 
     <pl.droidsonroids.gif.GifImageButton
@@ -14,7 +13,6 @@
         android:layout_centerVertical="true"
         android:background="@color/black"
         android:scaleType="centerCrop"
-        android:src="@drawable/dazn_rubicube_logo" />
-
-
+        android:src="@drawable/dazn_rubicube_logo"
+        tools:ignore="MissingClass" />
 </RelativeLayout>
