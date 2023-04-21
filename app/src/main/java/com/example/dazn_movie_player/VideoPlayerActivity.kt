@@ -2,16 +2,15 @@ package com.example.dazn_movie_player
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.dazn_movie_player.databinding.ActivityVideoStreamingBinding
+import com.example.dazn_movie_player.databinding.ActivityVideoPlayerBinding
+
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
-import com.google.android.exoplayer2.source.dash.DashMediaSource
 import com.google.android.exoplayer2.upstream.DefaultHttpDataSource
-import java.net.URL
 
 
-class VideoStreaming : AppCompatActivity() {
-    private lateinit var binding: ActivityVideoStreamingBinding
+class VideoPlayerActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityVideoPlayerBinding
     private var exoPlayer: ExoPlayer? = null
     private var playbackPosition = 0L
     private var playWhenReady = true
@@ -19,7 +18,7 @@ class VideoStreaming : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityVideoStreamingBinding.inflate(layoutInflater)
+        binding = ActivityVideoPlayerBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
         preparePlayer()

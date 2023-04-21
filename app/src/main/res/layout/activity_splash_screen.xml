@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/pale_black"
     tools:context=".SplashScreen">
 
     <pl.droidsonroids.gif.GifImageButton
@@ -11,7 +11,7 @@
         android:layout_height="300dp"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:background="@color/black"
+        android:background="@color/pale_black"
         android:scaleType="centerCrop"
         android:src="@drawable/dazn_rubicube_logo"
         tools:ignore="MissingClass" />
