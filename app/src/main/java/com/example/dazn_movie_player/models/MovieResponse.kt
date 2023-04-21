@@ -7,9 +7,8 @@ import kotlinx.android.parcel.Parcelize
 
 @Parcelize
 data class MovieResponse(
-    @SerializedName("results")
-    val movies : List<Movie>
+    @SerializedName("results") val movies: List<Movie>
 
-):Parcelable{
+) : Parcelable {
     constructor() : this(mutableListOf())
 }

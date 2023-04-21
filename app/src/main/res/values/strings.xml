@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DAZN-Movie-Player</string>
+    <string name="title">DAZN</string>
+    <string name="header_title">Featured</string>
 </resources>
