@@ -1,0 +1,1108 @@
+{
+  "Id": "7ebadddb-7a02-4c02-a0a0-d8a6ef255826",
+  "Title": "Fight Replays",
+  "Params": null,
+  "Tiles": [
+    {
+      "Id": "List:2897c9loxxug1nbjwwbie5kqf",
+      "AgeRating": null,
+      "AssetId": "2897c9loxxug1nbjwwbie5kqf",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:2897c9loxxug1nbjwwbie5kqf",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Davis vs. Meza (2021)",
+      "Description": "Keyshawn Davis entered the ring for the third time as a pro, eyeing his third straight KO, against Jose Antonio Meza. At one time, Davis looked set to represent the United States at the Tokyo Olympics, but gave up his Olympic dream to go pro.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111571525718_image-header_pRow_1620521675000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111571525718_image-header_pRow_1620521675000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "b0ud8gd35ppn12aziqw8d2o1b-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-03T23:39:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:xdv3c48v7kfd13gydcsvi1ho8",
+      "AgeRating": null,
+      "AssetId": "xdv3c48v7kfd13gydcsvi1ho8",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:xdv3c48v7kfd13gydcsvi1ho8",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Castro vs. Castillo (2021)",
+      "Description": "​Boxing out of Fresno, California, Marc Castro took on Irving Castillo in a junior-lightweight showdown. Castillo only had one loss in his career and eyed his third straight KO, but Castro was looking to continue a stellar start to his young career.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111573061664_image-header_pRow_1620538817000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111573061664_image-header_pRow_1620538817000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "59xsclux71id180t2tuq2jh6p-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-04T00:42:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:25d76um2ooz91m5hd1a5jyxqx",
+      "AgeRating": null,
+      "AssetId": "25d76um2ooz91m5hd1a5jyxqx",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:25d76um2ooz91m5hd1a5jyxqx",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Sanchez vs. Aguilera (2021)",
+      "Description": "In a 10-round heavyweight clash, Cuba's Frank Sanchez took on Nagy Aguilera. The unbeaten Sanchez was targeting his third consecutive KO while also extending his perfect record to 18-0, but Aguilera had a favourable 4-1 record when fighting in Texas.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111571525787_image-header_pRow_1620522880000/fill/center/top/none/85/1042/840/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111571525787_image-header_pRow_1620522880000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "qz9847rqzzu01dzq721jsm2jv-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-04T10:30:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:1mv3882l5naty14s3l2c34zu07",
+      "AgeRating": null,
+      "AssetId": "1mv3882l5naty14s3l2c34zu07",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:1mv3882l5naty14s3l2c34zu07",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Conway vs. Cissokho (2021)",
+      "Description": "Kieron Conway defended his WBA Intercontinental junior-middleweight belt for the first time in Texas. He went up against Souleymane Cissokho, who was eyeing back-to-back KOs for the first time since winning his first five bouts by stoppage.",
+      "Url":  "https://image.discovery.indazn.com/jp/v3/jp/none/111571525923_image-header_pRow_1620524052000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111571525923_image-header_pRow_1620524052000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1i61j70f2tmeu1w6gdtnce4f74-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-04T10:29:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:1xd72j6dyma6j1pqyzn2t2r25d",
+      "AgeRating": null,
+      "AssetId": "1xd72j6dyma6j1pqyzn2t2r25d",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:1xd72j6dyma6j1pqyzn2t2r25d",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "E. Soto vs. Takayama (2021)",
+      "Description": "Elwin Soto defended his WBO junior-flyweight title for the third time when he took on Japan's Katsunari Takayama at Texas' AT&T Stadium. Since losing his third professional fight, Soto had won 16 consecutive fights, with 11 of those coming via KO.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111572549752_image-header_pRow_1620527394000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111572549752_image-header_pRow_1620527394000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "19nslmntlan7b1jsrpn421wkpc-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-04T10:27:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:vyzkft1mr22n1jkgn1azzvl92",
+      "AgeRating": null,
+      "AssetId": "vyzkft1mr22n1jkgn1azzvl92",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:vyzkft1mr22n1jkgn1azzvl92",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Canelo vs. Saunders (2021)",
+      "Description": "Saul 'Canelo' Alvarez defended his WBC, WBA and The Ring super-middleweight belts against WBO titlist Billy Joe Saunders. Saunders' 30-0 record was the best Canelo faced since Gennadiy Golovkin, but the Mexican was unbeaten against English fighters.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111578693898_image-header_pRow_1622911501000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-08T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111578693898_image-header_pRow_1622911501000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-gallery",
+        "Id": "111578693898_image-gallery_pRow_1662987073000"
+      },
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "3ibplftwnobruew06nai2i4cy",
+        "Title": "Canelo Classics"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1s3sg4dygx54d1pa6uq6mkqj6m-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-04T05:50:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Canelo Classics",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": "PageType:Show;ContentType:Competition;ContentId:3ibplftwnobruew06nai2i4cy",
+      "ArticleNavigateTo": "Show",
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:ivzn8f0tfkw6zhspzrhetlps",
+      "AgeRating": null,
+      "AssetId": "ivzn8f0tfkw6zhspzrhetlps",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:ivzn8f0tfkw6zhspzrhetlps",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "C. Hatton vs. Dunn (2021)",
+      "Description": "Campbell Hatton, son of legendary pound-for-pound pugilist Ricky, continued his journey in the pro ranks against Levi Dunn. Just over a month ago, Hatton made his professional debut where he won all four rounds against Jesus Ruiz in Gibraltar.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111185989875_image-header_pRow_1619905131000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-01T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111185989875_image-header_pRow_1619905131000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1t6j5zc8gqqr51l1tl1hs1invl-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-02T01:07:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:1xlhny5a64mpj1a4cftk5bahfd",
+      "AgeRating": null,
+      "AssetId": "1xlhny5a64mpj1a4cftk5bahfd",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:1xlhny5a64mpj1a4cftk5bahfd",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Tennyson vs. Straffon (2021)",
+      "Description": "The vacant IBO lightweight title was up for grabs when James Tennyson and Jovanni Straffon went head-to-head in Manchester. Straffon came into this fight on the back of nine consecutive victories, seven of those coming via knockout.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111179845918_image-header_pRow_1619892247000/fill/center/top/none/85/1042/840/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-01T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111179845918_image-header_pRow_1619892247000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "c7se0lrp8dp3zof9k26hu8vu-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-02T18:18:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:1nm9f7zlqlsvd1j33j8itv7zq7",
+      "AgeRating": null,
+      "AssetId": "1nm9f7zlqlsvd1j33j8itv7zq7",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:1nm9f7zlqlsvd1j33j8itv7zq7",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Bivol vs. Richards (2021)",
+      "Description": "WBA world light-heavyweight champion Dmitry Bivol puts his title on the line against Craig Richards. Could Richards capitalize on the unbeaten Bivol’s time away from the ring - the 30-year-old Russian hadn’t laced up his gloves since October 2019.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111182917678_image-header_pRow_1619894645000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-01T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111182917678_image-header_pRow_1619894645000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "8poinzyv2v88155cta7uo6h60-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-02T01:08:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:13p2z9q8bi00k1ieiyg3x3h3ia",
+      "AgeRating": null,
+      "AssetId": "13p2z9q8bi00k1ieiyg3x3h3ia",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:13p2z9q8bi00k1ieiyg3x3h3ia",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Eubank Jr. vs. Morrison (2021)",
+      "Description": "Chris Eubank Jr. made his long-awaited return to the ring against British middleweight prospect Marcus Morrison. This was Eubank Jr.’s first fight since linking up with boxing legend and trainer Roy Jones Jr.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111183941943_image-header_pRow_1619900679000/fill/center/top/none/85/1042/840/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-01T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111183941943_image-header_pRow_1619900679000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": null,
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "8rfcag7xa3b7k4hluhrq3geve",
+        "Title": "Boxing Archive"
+      },
+      "Sport": {
+        "Id": "2x2oqzx60orpoeugkd754ga17",
+        "Title": "Boxing",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78537797920_image-background_pRow_1644945887000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78537797920_image-tile_pRow_1657206556000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-ISM-DC2",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-M3U-DC2",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-MPD-DC2",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "1xxc62jkcos401w1wxs63j09z6-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2024-05-02T01:08:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Boxing Archive",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": null,
+      "ArticleNavigateTo": null,
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    },
+    {
+      "Id": "List:ottnwgctabun19nrwht9c9stb",
+      "AgeRating": null,
+      "AssetId": "ottnwgctabun19nrwht9c9stb",
+      "AssetTypeId": "1plcw0iyhx9vn1fcanbm2ja3rf",
+      "EventId": "ArticleId:ottnwgctabun19nrwht9c9stb",
+      "Type": "OnDemand",
+      "NavigateTo": null,
+      "NavParams": null,
+      "Title": "Taylor vs. Jonas (2021)",
+      "Description": "Undisputed lightweight champion, Katie Taylor, put her titles on the line against Natasha Jonas. Unbeaten as a professional, the Liverpudlian was out for revenge against Taylor after losing to the Irish fighter at the London 2012 Olympics.",
+      "Url": "https://image.discovery.indazn.com/jp/v3/jp/none/111186501944_image-header_pRow_1619906053000/fill/center/top/none/85/1042/828/jpg/image",
+      "Start": null,
+      "End": null,
+      "DisplayDate": "2021-05-01T20:00:00Z",
+      "Image": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-header",
+        "Id": "111186501944_image-header_pRow_1619906053000"
+      },
+      "BackgroundImage": null,
+      "PromoImage": {
+        "ImageMimeType": "jpg",
+        "ImageType": "image-gallery",
+        "Id": "111186501944_image-gallery_pRow_1675177779000"
+      },
+      "LogoImage": null,
+      "PortraitImage": null,
+      "Competition": {
+        "Id": "4mpp1wppcjmtcimoxqgf2i0i6",
+        "Title": "Katie Taylor Classics"
+      },
+      "Sport": {
+        "Id": "bv9zk8knpqhdm2mw39z5r24bx",
+        "Title": "OTHER",
+        "Images": [
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-background",
+            "Id": "78011973631_image-background_pRow_1635440151000"
+          },
+          {
+            "ImageMimeType": "jpg",
+            "ImageType": "image-tile",
+            "Id": "78011973631_image-tile_pRow_1635440155000"
+          }
+        ]
+      },
+      "Videos": [
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-ISM-DC1",
+          "Format": "ISM"
+        },
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-ISM-DCN",
+          "Format": "ISM"
+        },
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-M3U-DC1",
+          "Format": "M3U"
+        },
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-M3U-DCN",
+          "Format": "M3U"
+        },
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-MPD-DC1",
+          "Format": "MPEG-DASH"
+        },
+        {
+          "Id": "gwnsup9xvwdv1dqad2eo8xjky-MPD-DCN",
+          "Format": "MPEG-DASH"
+        }
+      ],
+      "Related": [],
+      "TournamentCalendar": null,
+      "ExpirationDate": "2023-06-09T12:27:00Z",
+      "VideoType": "Vod",
+      "IsGeoRestricted": false,
+      "IsLinear": false,
+      "Status": null,
+      "Label": "Katie Taylor Classics",
+      "IsDownloadable": false,
+      "VerifyAge": false,
+      "NewLabel": false,
+      "IsFreeToView": false,
+      "PinProtect": false,
+      "ArticleNavParams": "PageType:Show;ContentType:Competition;ContentId:4mpp1wppcjmtcimoxqgf2i0i6",
+      "ArticleNavigateTo": "Show",
+      "EntitlementIds": [],
+      "LinearSchedule": null
+    }
+  ],
+  "StartPosition": 0,
+  "ContinuousPlayEnabled": false,
+  "Navigation": null,
+  "Type": "Standard",
+  "Description": null
+}
