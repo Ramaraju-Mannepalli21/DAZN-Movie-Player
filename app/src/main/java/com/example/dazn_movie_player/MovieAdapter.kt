@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.example.dazn_movie_player.databinding.MovieItemBinding
 import com.example.dazn_movie_player.models.Movie
 
@@ -20,7 +21,8 @@ class MovieAdapter(
         fun bindMovie(movie: Movie) {
             binding.movieTitle.text = movie.title
             binding.movieReleaseDate.text = movie.release
-            Glide.with(itemView.context).load(IMAGE_BASE_URL + movie.poster)
+            Glide.with(itemView.context).load(IMAGE_BASE_URL + movie.poster).transition(
+                DrawableTransitionOptions.withCrossFade(5000))
                 .into(binding.moviePosterIv)
         }
     }
@@ -34,5 +36,6 @@ class MovieAdapter(
 
     override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
         holder.bindMovie(movies.get(position))
+
     }
 }
