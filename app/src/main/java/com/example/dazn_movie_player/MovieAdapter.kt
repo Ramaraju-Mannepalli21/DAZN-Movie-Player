@@ -1,7 +1,10 @@
 package com.example.dazn_movie_player
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import android.widget.Toast
+import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.dazn_movie_player.databinding.MovieItemBinding
@@ -33,6 +36,11 @@ class MovieAdapter(
     override fun getItemCount(): Int = movies.size
 
     override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
-        holder.bindMovie(movies.get(position))
+        holder.bindMovie(movies[position])
+        holder.itemView.setOnClickListener{
+            val intent = Intent(it.context, VideoPlayerActivity::class.java)
+            startActivity(it.context, intent, null)
+
+        }
     }
 }
