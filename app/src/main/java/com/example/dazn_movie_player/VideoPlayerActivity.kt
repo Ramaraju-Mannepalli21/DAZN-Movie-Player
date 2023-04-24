@@ -28,7 +28,6 @@ class VideoPlayerActivity : AppCompatActivity() {
         exoPlayer = ExoPlayer.Builder(this).build()
         exoPlayer?.playWhenReady = true
         binding.playerView.player = exoPlayer
-        val defaultHttpDataSourceFactory = DefaultHttpDataSource.Factory()
         val mediaItem = MediaItem.fromUri(VIDEO_URL)
         exoPlayer?.setMediaItem(mediaItem)
         exoPlayer?.seekTo(playbackPosition)

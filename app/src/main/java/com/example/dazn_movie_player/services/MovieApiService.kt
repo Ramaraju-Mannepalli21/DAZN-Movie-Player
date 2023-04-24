@@ -1,4 +1,4 @@
-package com.example.dazn_movie_player.models.services
+package com.example.dazn_movie_player.services
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class MovieApiService {
 
     companion object {
-        private const val BASE_URL = "https://api.themoviedb.org"
+        private const val BASE_URL = "https://mocki.io"
         private var retrofit: Retrofit? = null
 
         fun getInstance(): Retrofit {
