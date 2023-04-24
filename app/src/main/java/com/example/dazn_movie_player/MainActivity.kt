@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.dazn_movie_player.models.DaznTilesResponse
@@ -24,14 +25,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         mListRecyclerView = findViewById(R.id.rv_movies_list)
-        mListRecyclerView.layoutManager = LinearLayoutManager(this)
+        mListRecyclerView.layoutManager=GridLayoutManager(this,2)
+//        mListRecyclerView.layoutManager = LinearLayoutManager(this)
         /*getMovieData { movies: List<Movie> ->
             mListRecyclerView.adapter = MovieAdapter(movies)
         }*/
         getMatches{ tiles: List<Tile>? ->
             mListRecyclerView.adapter = DaznTilesAdapter(tiles)
         }
-//        getMatches()
+
     }
 
     private fun getMovieData(callback: (List<Movie>) -> Unit) {

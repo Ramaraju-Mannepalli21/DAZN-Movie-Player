@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 import com.example.dazn_movie_player.databinding.MovieItemBinding
 import com.example.dazn_movie_player.models.Tile
 
@@ -19,8 +20,9 @@ class DaznTilesAdapter(
 
         fun bindMovie(tile: Tile) {
             binding.movieTitle.text = tile.title
-            binding.movieReleaseDate.text = tile.description
+            binding.movieReleaseDate.text = tile.label
             Glide.with(itemView.context).load("https://image.discovery.indazn.com/jp/v3/jp/none/111573061664_image-header_pRow_1620538817000/fill/center/top/none/85/1042/828/jpg/image")
+                .apply( RequestOptions().override(150, 100))
                 .into(binding.moviePosterIv)
         }
     }
