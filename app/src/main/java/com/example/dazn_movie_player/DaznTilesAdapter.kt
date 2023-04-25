@@ -38,6 +38,8 @@ class DaznTilesAdapter(
         holder.bindMovie(tiles!![position])
         holder.itemView.setOnClickListener{
             val intent = Intent(it.context, VideoPlayerActivity::class.java)
+            intent.putExtra("Title",tiles[position].title)
+            intent.putExtra("Description",tiles[position].description)
             startActivity(it.context, intent, null)
 
         }

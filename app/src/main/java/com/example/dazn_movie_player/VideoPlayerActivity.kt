@@ -1,12 +1,12 @@
 package com.example.dazn_movie_player
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
+import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 import com.example.dazn_movie_player.databinding.ActivityVideoPlayerBinding
-
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
-import com.google.android.exoplayer2.upstream.DefaultHttpDataSource
 
 
 class VideoPlayerActivity : AppCompatActivity() {
@@ -21,6 +21,13 @@ class VideoPlayerActivity : AppCompatActivity() {
         binding = ActivityVideoPlayerBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
+
+        var  name = intent.getStringExtra("Title")
+        var subTitle = intent.getStringExtra("Description")
+        val text1: TextView = findViewById(R.id.tvTitle)
+        val text2: TextView = findViewById(R.id.tvSubTitle)
+        text1.text = name
+        text2.text = subTitle
         preparePlayer()
     }
 
@@ -33,7 +40,6 @@ class VideoPlayerActivity : AppCompatActivity() {
         exoPlayer?.seekTo(playbackPosition)
         exoPlayer?.playWhenReady = playWhenReady
         exoPlayer?.prepare()
-
     }
 
     private fun relasePlayer() {
