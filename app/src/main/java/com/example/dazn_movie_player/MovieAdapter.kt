@@ -16,9 +16,7 @@ class MovieAdapter(
 
     class ItemViewHolder(private val binding: MovieItemBinding) :
         RecyclerView.ViewHolder(binding.root) {
-
         private val IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500/"
-
         fun bindMovie(movie: Movie) {
             binding.movieTitle.text = movie.title
             binding.movieReleaseDate.text = movie.release
@@ -33,13 +31,11 @@ class MovieAdapter(
     }
 
     override fun getItemCount(): Int = movies.size
-
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         holder.bindMovie(movies[position])
-        holder.itemView.setOnClickListener{
+        holder.itemView.setOnClickListener {
             val intent = Intent(it.context, VideoPlayerActivity::class.java)
             startActivity(it.context, intent, null)
-
         }
     }
 }

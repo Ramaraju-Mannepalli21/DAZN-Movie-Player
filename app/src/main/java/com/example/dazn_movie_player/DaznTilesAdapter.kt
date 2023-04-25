@@ -21,8 +21,8 @@ class DaznTilesAdapter(
         fun bindMovie(tile: Tile) {
             binding.movieTitle.text = tile.title
             binding.movieReleaseDate.text = tile.label
-            Glide.with(itemView.context).load("https://image.discovery.indazn.com/jp/v3/jp/none/111573061664_image-header_pRow_1620538817000/fill/center/top/none/85/1042/828/jpg/image")
-                .apply( RequestOptions().override(150, 100))
+            Glide.with(itemView.context).load(tile.backgroundImage)
+                .apply(RequestOptions().override(150, 100))
                 .into(binding.moviePosterIv)
         }
     }
@@ -36,12 +36,11 @@ class DaznTilesAdapter(
 
     override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
         holder.bindMovie(tiles!![position])
-        holder.itemView.setOnClickListener{
+        holder.itemView.setOnClickListener {
             val intent = Intent(it.context, VideoPlayerActivity::class.java)
-            intent.putExtra("Title",tiles[position].title)
-            intent.putExtra("Description",tiles[position].description)
+            intent.putExtra("Title", tiles[position].title)
+            intent.putExtra("Description", tiles[position].description)
             startActivity(it.context, intent, null)
-
         }
     }
 }

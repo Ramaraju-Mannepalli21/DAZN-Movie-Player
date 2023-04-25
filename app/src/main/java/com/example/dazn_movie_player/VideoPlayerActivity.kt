@@ -1,7 +1,6 @@
 package com.example.dazn_movie_player
 
 import android.os.Bundle
-import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.example.dazn_movie_player.databinding.ActivityVideoPlayerBinding
@@ -15,14 +14,12 @@ class VideoPlayerActivity : AppCompatActivity() {
     private var playbackPosition = 0L
     private var playWhenReady = true
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityVideoPlayerBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-
-        var  name = intent.getStringExtra("Title")
+        var name = intent.getStringExtra("Title")
         var subTitle = intent.getStringExtra("Description")
         val text1: TextView = findViewById(R.id.tvTitle)
         val text2: TextView = findViewById(R.id.tvSubTitle)
@@ -68,9 +65,7 @@ class VideoPlayerActivity : AppCompatActivity() {
         relasePlayer()
     }
 
-
     companion object {
-
         const val VIDEO_URL =
             "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
     }
