@@ -8,7 +8,7 @@ import retrofit2.http.GET
 interface MovieApiInterface {
     companion object {
         const val API_KEY = "/3/movie/popular?api_key=ae3e51a2cc95161ed1c94b4e989ed9f7"
-        const val DAZN_ENDPOINT = "/v1/5a8dbd14-6eba-4697-9027-56b0b3efd9dc"
+        const val DAZN_ENDPOINT = "/v1/fc2a4463-16e1-4a03-acdd-12abe4b8300a"
     }
 
     @GET(API_KEY)
