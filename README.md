@@ -8,7 +8,7 @@
 * ExoPlayer provides a powerful and flexible way to play audio and video content on Android devices.
 
 ## Installation
-- To install the Android application, follow the steps below:
+To install the Android application, follow the steps below:
 
 1. Download the APK file from the link provided.
 2. Enable "Unknown Sources" on your Android device by going to Settings > Security > Unknown Sources.
